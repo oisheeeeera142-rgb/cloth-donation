@@ -95,14 +95,3 @@ http://localhost/cloth-donation/
 
 The main objective of this project is to reduce clothing waste and help underprivileged people by creating a digital platform that streamlines the donation, collection, and distribution process.
 
-## Future Improvements
-
-* Email Notifications
-* SMS Alerts
-* Donation Tracking System
-* Real-time Volunteer Assignment
-* Advanced Reporting Dashboard
-
-## Author
-
-Developed as a Web Technology Project.
