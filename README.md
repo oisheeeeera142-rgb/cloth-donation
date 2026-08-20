@@ -56,40 +56,7 @@ index.php
 login.php
 register.php
 clothcare.sql
-```
 
-## Database
-
-Import the provided database file:
-
-```text
-clothcare.sql
-```
-
-into MySQL using phpMyAdmin.
-
-## Installation
-
-1. Install XAMPP.
-2. Copy the project folder into:
-
-```text
-xampp/htdocs/
-```
-
-3. Start Apache and MySQL.
-4. Import `clothcare.sql` into phpMyAdmin.
-5. Configure database settings in:
-
-```text
-config/db.php
-```
-
-6. Open your browser and visit:
-
-```text
-http://localhost/cloth-donation/
-```
 
 ## Objectives
 
